@@ -2,7 +2,9 @@
 
 (define collection "character-creator")
 
-(define version "1.0")
+(define version "0.0.1")
 
 (define deps '("2htdp/image"))
+
+(define scribblings '(("character-creator.scrbl" ())))
 

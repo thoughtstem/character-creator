@@ -1,8 +1,8 @@
 #lang info
 
-(define collection "game-engine-demos-common")
+(define collection "character-creator")
 
-(define version "0.0.1")
+(define version "1.0")
 
-(define deps '("game-engine"))
+(define deps '("2htdp/image"))
 
