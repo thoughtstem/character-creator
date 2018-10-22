@@ -3,7 +3,6 @@
 
 (provide sith-character)
 
-(require game-engine)
 (require racket/runtime-path)
 
 (define-runtime-path package-path "assets")

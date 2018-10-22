@@ -4,6 +4,7 @@
 (provide sith-character)
 
 (require racket/runtime-path)
+(require 2htdp/image)
 
 (define-runtime-path package-path "assets")
 

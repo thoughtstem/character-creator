@@ -6,3 +6,5 @@
 
 (require "./universal-character-generator.rkt")
 (require "./sith-character-generator.rkt")
+(require 2htdp/image)
+(require game-engine)
