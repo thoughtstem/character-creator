@@ -4,8 +4,6 @@
 
 (define version "0.0.1")
 
-(define deps '("2htdp/image"
-               "game-engine"
-               "racket/runtime-path"))
+(define deps '("game-engine"))
 
 (define scribblings '(("character-creator.scrbl" ())))
